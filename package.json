@@ -1,0 +1,19 @@
+{
+  "name": "ts-babel-standalone",
+  "version": "0.1.0",
+  "description": "",
+  "type": "module",
+  "main": "src/index.html",
+  "scripts": {
+    "compile": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/react": "^17.0.40",
+    "@types/react-dom": "^17.0.13",
+    "typescript": "^4.6.2"
+  }
+}
